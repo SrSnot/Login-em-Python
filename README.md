@@ -1,3 +1,5 @@
 Um simples login feito em python
-Você pode usar se quiser 
-Mas coloque os creditos do login em algum lugar do programa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Pode não estar funcionando muito bem
+mas se quiser usar pode usar, o codigo fonte é aberto
+Só deixe os creditos em algum lugar do programa por favor :)
+Obrigadoooo
